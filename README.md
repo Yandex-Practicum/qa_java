@@ -1,4 +1,4 @@
-# Sprint2
+# Sprint_2
 
 ## Юнит тестирование
 - Собран Maven-проект: подключен Jacoco, Mockito и JUnit 4.
