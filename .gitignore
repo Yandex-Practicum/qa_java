@@ -1,4 +1,8 @@
 # Compiled class file
+/*
+!/target/
+/target/*
+!target/site
 *.class
 
 # Log file
